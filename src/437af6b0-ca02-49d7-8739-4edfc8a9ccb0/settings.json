@@ -1,0 +1,29 @@
+{
+    "add_head": "0",
+    "add_licensing_template": "2",
+    "extends": "0",
+    "guid": "437af6b0-ca02-49d7-8739-4edfc8a9ccb0",
+    "implements": [
+        "81de8f57-dd9c-4a17-964f-848cd4a0743b"
+    ],
+    "load_selection": null,
+    "name": "Legacy",
+    "power_version": "1.0.0",
+    "system_name": "JCB.Crypt.Aes.Legacy",
+    "type": "class",
+    "use_selection": null,
+    "namespace": "VDM\\Joomla\\Componentbuilder.Crypt.Aes.Legacy",
+    "description": "Legacy Class for Aes Encryption\r\n\r\n@since 3.2.0",
+    "licensing_template": "\/**\r\n * @package    Joomla.Component.Builder\r\n *\r\n * @created    4th September, 2022\r\n * @author     Llewellyn van der Merwe <https:\/\/dev.vdm.io>\r\n * @git        Joomla Component Builder <https:\/\/git.vdm.dev\/joomla\/Component-Builder>\r\n * @copyright  Copyright (C) 2015 Vast Development Method. All rights reserved.\r\n * @license    GNU General Public License version 2 or later; see LICENSE.txt\r\n *\/\r\n",
+    "head": "",
+    "composer": {
+        "composer0": {
+            "access_point": "phpseclib3\/vendor\/autoload.php",
+            "namespace": {
+                "namespace0": {
+                    "use": "phpseclib3\\Crypt\\AES as BASEAES"
+                }
+            }
+        }
+    }
+}

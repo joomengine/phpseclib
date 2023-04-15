@@ -1,0 +1,40 @@
+	/**
+	 * Get the type of password
+	 *          Example: $this->get('basic', 'default-password');
+	 *
+	 * @param   string             $type    The value of password to get
+	 * @param   string|null      $default    The default password if the type is not found
+	 *
+	 * @return  string|null
+	 * @since 3.2.0
+	 */
+	public function get(string $type, ?string $default = null): ?string
+	{
+		// we have a local key for JCB only use
+		if ('local' === $type)
+		{
+			return $this->local();
+		}
+		elseif (($password = Helper::_('getCryptKey', [$type, $default])) !== null)
+		{
+			return $password;
+		}
+
+		return $default;
+	}
+
+	/**
+	 * Get the local password
+	 *
+	 * @return  string
+	 * @since 3.2.0
+	 */
+	private function local(): string
+	{
+		return base64_decode(
+			Text::sprintf(
+				JustTEXT::_('VjRzdE%ssMHBtRW50TWV0aE%sFlvVXJTM3J2IXM='),
+				'QzdmV', '9kQ'
+			)
+		);
+	}

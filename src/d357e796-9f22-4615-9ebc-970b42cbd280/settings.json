@@ -1,0 +1,43 @@
+{
+    "add_head": "0",
+    "add_licensing_template": "2",
+    "extends": "0",
+    "guid": "d357e796-9f22-4615-9ebc-970b42cbd280",
+    "implements": null,
+    "load_selection": null,
+    "name": "Crypt",
+    "power_version": "1.0.0",
+    "system_name": "JCB.Crypt",
+    "type": "class",
+    "use_selection": {
+        "use_selection0": {
+            "use": "e98b4edc-25b9-49d7-98a0-e42ad3b75efe",
+            "as": "default"
+        },
+        "use_selection1": {
+            "use": "a25c82c8-14c2-40df-adae-f832709ab49b",
+            "as": "default"
+        },
+        "use_selection2": {
+            "use": "437af6b0-ca02-49d7-8739-4edfc8a9ccb0",
+            "as": "default"
+        },
+        "use_selection3": {
+            "use": "fea2b107-3ee4-4ebf-84be-d3f2829c8614",
+            "as": "default"
+        },
+        "use_selection4": {
+            "use": "81de8f57-dd9c-4a17-964f-848cd4a0743b",
+            "as": "default"
+        },
+        "use_selection5": {
+            "use": "1f28cb53-60d9-4db1-b517-3c7dc6b429ef",
+            "as": "default"
+        }
+    },
+    "namespace": "VDM\\Joomla\\Componentbuilder.Crypt",
+    "description": "Crypto Class\r\n\r\n@since 3.2.0",
+    "licensing_template": "\/**\r\n * @package    Joomla.Component.Builder\r\n *\r\n * @created    4th September, 2022\r\n * @author     Llewellyn van der Merwe <https:\/\/dev.vdm.io>\r\n * @git        Joomla Component Builder <https:\/\/git.vdm.dev\/joomla\/Component-Builder>\r\n * @copyright  Copyright (C) 2015 Vast Development Method. All rights reserved.\r\n * @license    GNU General Public License version 2 or later; see LICENSE.txt\r\n *\/\r\n",
+    "head": "",
+    "composer": ""
+}

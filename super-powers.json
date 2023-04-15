@@ -1,0 +1,142 @@
+{
+    "c46a42b4-b0d3-48e7-a6fa-af0399e1e66c": {
+        "name": "Random",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "code": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/code.php",
+        "power": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/code.power",
+        "settings": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/settings.json",
+        "path": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c",
+        "guid": "c46a42b4-b0d3-48e7-a6fa-af0399e1e66c"
+    },
+    "e98b4edc-25b9-49d7-98a0-e42ad3b75efe": {
+        "name": "FOF",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "code": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/code.php",
+        "power": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/code.power",
+        "settings": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/settings.json",
+        "path": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe",
+        "guid": "e98b4edc-25b9-49d7-98a0-e42ad3b75efe"
+    },
+    "a25c82c8-14c2-40df-adae-f832709ab49b": {
+        "name": "Aes",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "code": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/code.php",
+        "power": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/code.power",
+        "settings": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/settings.json",
+        "path": "src\/a25c82c8-14c2-40df-adae-f832709ab49b",
+        "guid": "a25c82c8-14c2-40df-adae-f832709ab49b"
+    },
+    "437af6b0-ca02-49d7-8739-4edfc8a9ccb0": {
+        "name": "Legacy",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt\\Aes",
+        "code": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/code.php",
+        "power": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/code.power",
+        "settings": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/settings.json",
+        "path": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0",
+        "guid": "437af6b0-ca02-49d7-8739-4edfc8a9ccb0"
+    },
+    "fea2b107-3ee4-4ebf-84be-d3f2829c8614": {
+        "name": "Password",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "code": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/code.php",
+        "power": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/code.power",
+        "settings": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/settings.json",
+        "path": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614",
+        "guid": "fea2b107-3ee4-4ebf-84be-d3f2829c8614"
+    },
+    "d357e796-9f22-4615-9ebc-970b42cbd280": {
+        "name": "Crypt",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder",
+        "code": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/code.php",
+        "power": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/code.power",
+        "settings": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/settings.json",
+        "path": "src\/d357e796-9f22-4615-9ebc-970b42cbd280",
+        "guid": "d357e796-9f22-4615-9ebc-970b42cbd280"
+    },
+    "6da44dff-a221-4f22-b9d9-b2fc2a724b4b": {
+        "name": "KeyLoader",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "code": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/code.php",
+        "power": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/code.power",
+        "settings": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/settings.json",
+        "path": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b",
+        "guid": "6da44dff-a221-4f22-b9d9-b2fc2a724b4b"
+    },
+    "4d8f38ef-8f3a-463d-8678-0bf087ac6815": {
+        "name": "Crypt",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Service",
+        "code": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/code.php",
+        "power": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/code.power",
+        "settings": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/settings.json",
+        "path": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815",
+        "guid": "4d8f38ef-8f3a-463d-8678-0bf087ac6815"
+    },
+    "f37ee8b7-2909-4319-bdf8-769bd7635490": {
+        "name": "Load",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Server\\Model",
+        "code": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/code.php",
+        "power": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/code.power",
+        "settings": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/settings.json",
+        "path": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490",
+        "guid": "f37ee8b7-2909-4319-bdf8-769bd7635490"
+    },
+    "a3414824-e99d-4878-b3d1-b5deef0cae17": {
+        "name": "Load",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "code": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/code.php",
+        "power": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/code.power",
+        "settings": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/settings.json",
+        "path": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17",
+        "guid": "a3414824-e99d-4878-b3d1-b5deef0cae17"
+    },
+    "11be6be3-ee3e-4771-8663-5545b76b73ab": {
+        "name": "Ftp",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "code": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/code.php",
+        "power": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/code.power",
+        "settings": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/settings.json",
+        "path": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab",
+        "guid": "11be6be3-ee3e-4771-8663-5545b76b73ab"
+    },
+    "490b6aa5-5de7-4be5-a61a-f634f6e004c0": {
+        "name": "Sftp",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "code": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/code.php",
+        "power": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/code.power",
+        "settings": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/settings.json",
+        "path": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0",
+        "guid": "490b6aa5-5de7-4be5-a61a-f634f6e004c0"
+    },
+    "66355f70-c26c-4765-ba48-498e3df740ef": {
+        "name": "Server",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder",
+        "code": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/code.php",
+        "power": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/code.power",
+        "settings": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/settings.json",
+        "path": "src\/66355f70-c26c-4765-ba48-498e3df740ef",
+        "guid": "66355f70-c26c-4765-ba48-498e3df740ef"
+    },
+    "42ceff0b-226d-42ff-9ffa-3d5935890337": {
+        "name": "Server",
+        "type": "class",
+        "namespace": "VDM\\Joomla\\Componentbuilder\\Service",
+        "code": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/code.php",
+        "power": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/code.power",
+        "settings": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/settings.json",
+        "path": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337",
+        "guid": "42ceff0b-226d-42ff-9ffa-3d5935890337"
+    }
+}
