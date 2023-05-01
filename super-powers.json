@@ -7,6 +7,7 @@
         "power": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/code.power",
         "settings": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/settings.json",
         "path": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c",
+        "spk": "Random",
         "guid": "c46a42b4-b0d3-48e7-a6fa-af0399e1e66c"
     },
     "e98b4edc-25b9-49d7-98a0-e42ad3b75efe": {
@@ -17,6 +18,7 @@
         "power": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/code.power",
         "settings": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/settings.json",
         "path": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe",
+        "spk": "FOF",
         "guid": "e98b4edc-25b9-49d7-98a0-e42ad3b75efe"
     },
     "a25c82c8-14c2-40df-adae-f832709ab49b": {
@@ -27,6 +29,7 @@
         "power": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/code.power",
         "settings": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/settings.json",
         "path": "src\/a25c82c8-14c2-40df-adae-f832709ab49b",
+        "spk": "Aes",
         "guid": "a25c82c8-14c2-40df-adae-f832709ab49b"
     },
     "437af6b0-ca02-49d7-8739-4edfc8a9ccb0": {
@@ -37,6 +40,7 @@
         "power": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/code.power",
         "settings": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/settings.json",
         "path": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0",
+        "spk": "Legacy",
         "guid": "437af6b0-ca02-49d7-8739-4edfc8a9ccb0"
     },
     "fea2b107-3ee4-4ebf-84be-d3f2829c8614": {
@@ -47,6 +51,7 @@
         "power": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/code.power",
         "settings": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/settings.json",
         "path": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614",
+        "spk": "Password",
         "guid": "fea2b107-3ee4-4ebf-84be-d3f2829c8614"
     },
     "d357e796-9f22-4615-9ebc-970b42cbd280": {
@@ -57,6 +62,7 @@
         "power": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/code.power",
         "settings": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/settings.json",
         "path": "src\/d357e796-9f22-4615-9ebc-970b42cbd280",
+        "spk": "Crypt",
         "guid": "d357e796-9f22-4615-9ebc-970b42cbd280"
     },
     "6da44dff-a221-4f22-b9d9-b2fc2a724b4b": {
@@ -67,6 +73,7 @@
         "power": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/code.power",
         "settings": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/settings.json",
         "path": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b",
+        "spk": "KeyLoader",
         "guid": "6da44dff-a221-4f22-b9d9-b2fc2a724b4b"
     },
     "4d8f38ef-8f3a-463d-8678-0bf087ac6815": {
@@ -77,6 +84,7 @@
         "power": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/code.power",
         "settings": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/settings.json",
         "path": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815",
+        "spk": "Crypt",
         "guid": "4d8f38ef-8f3a-463d-8678-0bf087ac6815"
     },
     "f37ee8b7-2909-4319-bdf8-769bd7635490": {
@@ -87,6 +95,7 @@
         "power": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/code.power",
         "settings": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/settings.json",
         "path": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490",
+        "spk": "Load",
         "guid": "f37ee8b7-2909-4319-bdf8-769bd7635490"
     },
     "a3414824-e99d-4878-b3d1-b5deef0cae17": {
@@ -97,6 +106,7 @@
         "power": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/code.power",
         "settings": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/settings.json",
         "path": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17",
+        "spk": "Load",
         "guid": "a3414824-e99d-4878-b3d1-b5deef0cae17"
     },
     "11be6be3-ee3e-4771-8663-5545b76b73ab": {
@@ -107,6 +117,7 @@
         "power": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/code.power",
         "settings": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/settings.json",
         "path": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab",
+        "spk": "Ftp",
         "guid": "11be6be3-ee3e-4771-8663-5545b76b73ab"
     },
     "490b6aa5-5de7-4be5-a61a-f634f6e004c0": {
@@ -117,6 +128,7 @@
         "power": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/code.power",
         "settings": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/settings.json",
         "path": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0",
+        "spk": "Sftp",
         "guid": "490b6aa5-5de7-4be5-a61a-f634f6e004c0"
     },
     "66355f70-c26c-4765-ba48-498e3df740ef": {
@@ -127,6 +139,7 @@
         "power": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/code.power",
         "settings": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/settings.json",
         "path": "src\/66355f70-c26c-4765-ba48-498e3df740ef",
+        "spk": "Server",
         "guid": "66355f70-c26c-4765-ba48-498e3df740ef"
     },
     "42ceff0b-226d-42ff-9ffa-3d5935890337": {
@@ -137,6 +150,7 @@
         "power": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/code.power",
         "settings": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/settings.json",
         "path": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337",
+        "spk": "Server",
         "guid": "42ceff0b-226d-42ff-9ffa-3d5935890337"
     }
 }

@@ -25,28 +25,28 @@ This repository contains an index (see below) of all the approved powers within 
 
 - **Namespace**: [VDM\Joomla\Componentbuilder](#vdm-joomla-componentbuilder)
 
-  - **class Crypt** | [Details](src/d357e796-9f22-4615-9ebc-970b42cbd280) | [Code](src/d357e796-9f22-4615-9ebc-970b42cbd280/code.php) | [Settings](src/d357e796-9f22-4615-9ebc-970b42cbd280/settings.json) | [d357e796-9f22-4615-9ebc-970b42cbd280](src/d357e796-9f22-4615-9ebc-970b42cbd280)
-  - **class Server** | [Details](src/66355f70-c26c-4765-ba48-498e3df740ef) | [Code](src/66355f70-c26c-4765-ba48-498e3df740ef/code.php) | [Settings](src/66355f70-c26c-4765-ba48-498e3df740ef/settings.json) | [66355f70-c26c-4765-ba48-498e3df740ef](src/66355f70-c26c-4765-ba48-498e3df740ef)
+  - **class Crypt** | [Details](src/d357e796-9f22-4615-9ebc-970b42cbd280) | [Code](src/d357e796-9f22-4615-9ebc-970b42cbd280/code.php) | [Settings](src/d357e796-9f22-4615-9ebc-970b42cbd280/settings.json) | Crypt
+  - **class Server** | [Details](src/66355f70-c26c-4765-ba48-498e3df740ef) | [Code](src/66355f70-c26c-4765-ba48-498e3df740ef/code.php) | [Settings](src/66355f70-c26c-4765-ba48-498e3df740ef/settings.json) | Server
 - **Namespace**: [VDM\Joomla\Componentbuilder\Crypt](#vdm-joomla-componentbuilder-crypt)
 
-  - **class Aes** | [Details](src/a25c82c8-14c2-40df-adae-f832709ab49b) | [Code](src/a25c82c8-14c2-40df-adae-f832709ab49b/code.php) | [Settings](src/a25c82c8-14c2-40df-adae-f832709ab49b/settings.json) | [a25c82c8-14c2-40df-adae-f832709ab49b](src/a25c82c8-14c2-40df-adae-f832709ab49b)
-  - **class FOF** | [Details](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe) | [Code](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe/code.php) | [Settings](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe/settings.json) | [e98b4edc-25b9-49d7-98a0-e42ad3b75efe](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe)
-  - **class Password** | [Details](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614) | [Code](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614/code.php) | [Settings](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614/settings.json) | [fea2b107-3ee4-4ebf-84be-d3f2829c8614](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614)
+  - **class Aes** | [Details](src/a25c82c8-14c2-40df-adae-f832709ab49b) | [Code](src/a25c82c8-14c2-40df-adae-f832709ab49b/code.php) | [Settings](src/a25c82c8-14c2-40df-adae-f832709ab49b/settings.json) | Aes
+  - **class FOF** | [Details](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe) | [Code](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe/code.php) | [Settings](src/e98b4edc-25b9-49d7-98a0-e42ad3b75efe/settings.json) | FOF
+  - **class Password** | [Details](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614) | [Code](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614/code.php) | [Settings](src/fea2b107-3ee4-4ebf-84be-d3f2829c8614/settings.json) | Password
 - **Namespace**: [VDM\Joomla\Componentbuilder\Server](#vdm-joomla-componentbuilder-server)
 
-  - **class Ftp** | [Details](src/11be6be3-ee3e-4771-8663-5545b76b73ab) | [Code](src/11be6be3-ee3e-4771-8663-5545b76b73ab/code.php) | [Settings](src/11be6be3-ee3e-4771-8663-5545b76b73ab/settings.json) | [11be6be3-ee3e-4771-8663-5545b76b73ab](src/11be6be3-ee3e-4771-8663-5545b76b73ab)
-  - **class Load** | [Details](src/a3414824-e99d-4878-b3d1-b5deef0cae17) | [Code](src/a3414824-e99d-4878-b3d1-b5deef0cae17/code.php) | [Settings](src/a3414824-e99d-4878-b3d1-b5deef0cae17/settings.json) | [a3414824-e99d-4878-b3d1-b5deef0cae17](src/a3414824-e99d-4878-b3d1-b5deef0cae17)
-  - **class Sftp** | [Details](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0) | [Code](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0/code.php) | [Settings](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0/settings.json) | [490b6aa5-5de7-4be5-a61a-f634f6e004c0](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0)
+  - **class Ftp** | [Details](src/11be6be3-ee3e-4771-8663-5545b76b73ab) | [Code](src/11be6be3-ee3e-4771-8663-5545b76b73ab/code.php) | [Settings](src/11be6be3-ee3e-4771-8663-5545b76b73ab/settings.json) | Ftp
+  - **class Load** | [Details](src/a3414824-e99d-4878-b3d1-b5deef0cae17) | [Code](src/a3414824-e99d-4878-b3d1-b5deef0cae17/code.php) | [Settings](src/a3414824-e99d-4878-b3d1-b5deef0cae17/settings.json) | Load
+  - **class Sftp** | [Details](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0) | [Code](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0/code.php) | [Settings](src/490b6aa5-5de7-4be5-a61a-f634f6e004c0/settings.json) | Sftp
 - **Namespace**: [VDM\Joomla\Componentbuilder\Service](#vdm-joomla-componentbuilder-service)
 
-  - **class Crypt** | [Details](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815) | [Code](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815/code.php) | [Settings](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815/settings.json) | [4d8f38ef-8f3a-463d-8678-0bf087ac6815](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815)
-  - **class Server** | [Details](src/42ceff0b-226d-42ff-9ffa-3d5935890337) | [Code](src/42ceff0b-226d-42ff-9ffa-3d5935890337/code.php) | [Settings](src/42ceff0b-226d-42ff-9ffa-3d5935890337/settings.json) | [42ceff0b-226d-42ff-9ffa-3d5935890337](src/42ceff0b-226d-42ff-9ffa-3d5935890337)
+  - **class Crypt** | [Details](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815) | [Code](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815/code.php) | [Settings](src/4d8f38ef-8f3a-463d-8678-0bf087ac6815/settings.json) | Crypt
+  - **class Server** | [Details](src/42ceff0b-226d-42ff-9ffa-3d5935890337) | [Code](src/42ceff0b-226d-42ff-9ffa-3d5935890337/code.php) | [Settings](src/42ceff0b-226d-42ff-9ffa-3d5935890337/settings.json) | Server
 - **Namespace**: [VDM\Joomla\Componentbuilder\Crypt\Aes](#vdm-joomla-componentbuilder-crypt-aes)
 
-  - **class Legacy** | [Details](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0) | [Code](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0/code.php) | [Settings](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0/settings.json) | [437af6b0-ca02-49d7-8739-4edfc8a9ccb0](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0)
+  - **class Legacy** | [Details](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0) | [Code](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0/code.php) | [Settings](src/437af6b0-ca02-49d7-8739-4edfc8a9ccb0/settings.json) | Legacy
 - **Namespace**: [VDM\Joomla\Componentbuilder\Server\Model](#vdm-joomla-componentbuilder-server-model)
 
-  - **class Load** | [Details](src/f37ee8b7-2909-4319-bdf8-769bd7635490) | [Code](src/f37ee8b7-2909-4319-bdf8-769bd7635490/code.php) | [Settings](src/f37ee8b7-2909-4319-bdf8-769bd7635490/settings.json) | [f37ee8b7-2909-4319-bdf8-769bd7635490](src/f37ee8b7-2909-4319-bdf8-769bd7635490)
+  - **class Load** | [Details](src/f37ee8b7-2909-4319-bdf8-769bd7635490) | [Code](src/f37ee8b7-2909-4319-bdf8-769bd7635490/code.php) | [Settings](src/f37ee8b7-2909-4319-bdf8-769bd7635490/settings.json) | Load
 
 # Class Diagrams
 
