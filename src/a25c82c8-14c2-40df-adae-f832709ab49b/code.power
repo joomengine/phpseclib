@@ -75,10 +75,10 @@
 	 * @param   string     $string      The string to decrypt
 	 * @param   string     $key         The decryption key
 	 *
-	 * @return  string
+	 * @return  string|null
 	 * @since 3.2.0
 	 **/
-	public function decrypt(string $string, string $key): string
+	public function decrypt(string $string, string $key): ?string
 	{
 		// we get the IV length
 		$iv_length = (int) $this->aes->getBlockLength() >> 3;
@@ -98,5 +98,9 @@
 		// set the password
 		$this->aes->setPassword($key, 'pbkdf2', 'sha256', 'VastDevelopmentMethod/salt');
 
-		return $this->aes->decrypt($string);
+		try {
+			return $this->aes->decrypt($string);
+		} catch (\Exception $ex) {
+			return null;
+		}
 	}

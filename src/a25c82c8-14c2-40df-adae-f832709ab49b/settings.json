@@ -1,5 +1,5 @@
 {
-    "add_head": "0",
+    "add_head": "1",
     "add_licensing_template": "2",
     "extends": "0",
     "guid": "a25c82c8-14c2-40df-adae-f832709ab49b",
@@ -27,6 +27,9 @@
             "namespace": {
                 "namespace0": {
                     "use": "phpseclib3\\Crypt\\AES as BASEAES"
+                },
+                "namespace1": {
+                    "use": "phpseclib3\\Exception\\BadDecryptionException"
                 }
             }
         }

@@ -16,7 +16,7 @@ class Aes  #Gold {
   # int $size
   + __construct(BASEAES $aes, Random $random)
   + encrypt(string $string, string $key) : string
-  + decrypt(string $string, string $key) : string
+  + decrypt(string $string, string $key) : ?string
 }
 
 note right of Aes::__construct
@@ -36,7 +36,7 @@ note right of Aes::decrypt
   Decrypt a string as needed
 
   since: 3.2.0
-  return: string
+  return: ?string
 end note
  
 @enduml

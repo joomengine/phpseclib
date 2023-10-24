@@ -15,7 +15,7 @@ class Legacy  #Gold {
   # int $size
   + __construct(BASEAES $aes)
   + encrypt(string $string, string $key) : string
-  + decrypt(string $string, string $key) : string
+  + decrypt(string $string, string $key) : ?string
 }
 
 note right of Legacy::__construct
@@ -35,7 +35,7 @@ note right of Legacy::decrypt
   Decrypt a string as needed
 
   since: 3.2.0
-  return: string
+  return: ?string
 end note
  
 @enduml

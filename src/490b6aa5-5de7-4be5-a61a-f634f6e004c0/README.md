@@ -14,7 +14,8 @@ class Sftp  #Gold {
   # KeyLoader $key
   # ?SftpClient $client
   # ?object $details
-  + __construct(KeyLoader $key)
+  # CMSApplication $app
+  + __construct(KeyLoader $key, ?CMSApplication $app = null)
   + set(object $details) : Sftp
   + move(string $localPath, string $fileName) : bool
   - connected() : bool

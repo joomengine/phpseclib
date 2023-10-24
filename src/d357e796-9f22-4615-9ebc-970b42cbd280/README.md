@@ -19,7 +19,7 @@ class Crypt  #Gold {
   # array $passwords
   + __construct(FOF $fof, Aes $aes, ...)
   + encrypt(string $string, string $method, ...) : string
-  + decrypt(string $string, string $method, ...) : string
+  + decrypt(string $string, string $method, ...) : ?string
   + exist(string $method) : bool
   - getClassName(string $method) : ?string
   - getClassNameFromRegistry(string $method) : ?string
@@ -57,7 +57,7 @@ note right of Crypt::decrypt
   Decrypt a string as needed
 
   since: 3.2.0
-  return: string
+  return: ?string
   
   arguments:
     string $string

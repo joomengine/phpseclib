@@ -13,6 +13,7 @@
 class Ftp  #Gold {
   # ?FtpClient $client
   # ?object $details
+  + iables $signature
   + set(object $details) : Ftp
   + move(string $localPath, string $fileName) : bool
   - connected() : bool

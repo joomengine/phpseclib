@@ -6,7 +6,16 @@
 ██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
-> Error adding class diagram
+# class KeyLoader (Details)
+> namespace: **VDM\Joomla\Componentbuilder\Crypt**
+> extends: **PublicKeyLoader**
+```uml
+@startuml
+class KeyLoader  #Gold {
+}
+ 
+@enduml
+```
 
 ---
 ```

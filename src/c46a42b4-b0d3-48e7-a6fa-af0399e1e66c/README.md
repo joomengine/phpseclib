@@ -6,7 +6,16 @@
 ██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
-> Error adding class diagram
+# class Random (Details)
+> namespace: **VDM\Joomla\Componentbuilder\Crypt**
+> extends: **CryptRandom**
+```uml
+@startuml
+class Random  #Gold {
+}
+ 
+@enduml
+```
 
 ---
 ```

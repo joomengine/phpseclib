@@ -13,22 +13,13 @@
     "type": "class",
     "use_selection": {
         "use_selection0": {
-            "use": "c46a42b4-b0d3-48e7-a6fa-af0399e1e66c",
+            "use": "99175f6d-dba8-4086-8a65-5c4ec175e61d",
             "as": "default"
         }
     },
     "namespace": "VDM\\Joomla\\Componentbuilder.Crypt.FOF",
-    "description": "Replacement Class for FOFEncryptAes\r\n\r\n@since 3.2.0",
+    "description": "Temp Class for FOFEncryptAes\r\n\r\n@since 3.2.0",
     "licensing_template": "\/**\r\n * @package    Joomla.Component.Builder\r\n *\r\n * @created    4th September, 2022\r\n * @author     Llewellyn van der Merwe <https:\/\/dev.vdm.io>\r\n * @git        Joomla Component Builder <https:\/\/git.vdm.dev\/joomla\/Component-Builder>\r\n * @copyright  Copyright (C) 2015 Vast Development Method. All rights reserved.\r\n * @license    GNU General Public License version 2 or later; see LICENSE.txt\r\n *\/\r\n",
     "head": "",
-    "composer": {
-        "composer0": {
-            "access_point": "phpseclib3\/vendor\/autoload.php",
-            "namespace": {
-                "namespace0": {
-                    "use": "phpseclib3\\Crypt\\AES"
-                }
-            }
-        }
-    }
+    "composer": ""
 }
