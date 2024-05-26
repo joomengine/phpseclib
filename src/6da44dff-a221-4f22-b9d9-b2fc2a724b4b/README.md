@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class KeyLoader (Details)
-> namespace: **VDM\Joomla\Componentbuilder\Crypt**
+> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Crypt**
 > extends: **PublicKeyLoader**
 ```uml
 @startuml

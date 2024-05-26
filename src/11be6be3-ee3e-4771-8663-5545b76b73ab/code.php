@@ -9,13 +9,13 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder\Server;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder\Server;
 
 
 use Joomla\CMS\Client\FtpClient;
-use VDM\Joomla\Utilities\StringHelper;
-use VDM\Joomla\Utilities\ArrayHelper;
-use VDM\Joomla\Utilities\ObjectHelper;
+use VastDevelopmentMethod\Joomla\Utilities\StringHelper;
+use VastDevelopmentMethod\Joomla\Utilities\ArrayHelper;
+use VastDevelopmentMethod\Joomla\Utilities\ObjectHelper;
 use VDM\Joomla\Componentbuilder\Interfaces\Serverinterface;
 
 

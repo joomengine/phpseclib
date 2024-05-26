@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class Server (Details)
-> namespace: **VDM\Joomla\Componentbuilder\Service**
+> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Service**
 ```uml
 @startuml
 class Server  #Gold {

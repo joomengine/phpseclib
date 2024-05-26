@@ -9,11 +9,11 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder\Crypt;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder\Crypt;
 
 
 use Joomla\CMS\Language\Text;
-use VDM\Joomla\Utilities\Component\Helper;
+use VastDevelopmentMethod\Joomla\Utilities\Component\Helper;
 
 
 /**

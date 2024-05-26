@@ -2,7 +2,7 @@
     "11be6be3-ee3e-4771-8663-5545b76b73ab": {
         "name": "Ftp",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Server",
         "code": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/code.php",
         "power": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/code.power",
         "settings": "src\/11be6be3-ee3e-4771-8663-5545b76b73ab\/settings.json",
@@ -13,7 +13,7 @@
     "42ceff0b-226d-42ff-9ffa-3d5935890337": {
         "name": "Server",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Service",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Service",
         "code": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/code.php",
         "power": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/code.power",
         "settings": "src\/42ceff0b-226d-42ff-9ffa-3d5935890337\/settings.json",
@@ -24,7 +24,7 @@
     "437af6b0-ca02-49d7-8739-4edfc8a9ccb0": {
         "name": "Legacy",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt\\Aes",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt\\Aes",
         "code": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/code.php",
         "power": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/code.power",
         "settings": "src\/437af6b0-ca02-49d7-8739-4edfc8a9ccb0\/settings.json",
@@ -35,7 +35,7 @@
     "490b6aa5-5de7-4be5-a61a-f634f6e004c0": {
         "name": "Sftp",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Server",
         "code": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/code.php",
         "power": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/code.power",
         "settings": "src\/490b6aa5-5de7-4be5-a61a-f634f6e004c0\/settings.json",
@@ -46,7 +46,7 @@
     "4d8f38ef-8f3a-463d-8678-0bf087ac6815": {
         "name": "Crypt",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Service",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Service",
         "code": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/code.php",
         "power": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/code.power",
         "settings": "src\/4d8f38ef-8f3a-463d-8678-0bf087ac6815\/settings.json",
@@ -57,7 +57,7 @@
     "66355f70-c26c-4765-ba48-498e3df740ef": {
         "name": "Server",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder",
         "code": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/code.php",
         "power": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/code.power",
         "settings": "src\/66355f70-c26c-4765-ba48-498e3df740ef\/settings.json",
@@ -68,7 +68,7 @@
     "6da44dff-a221-4f22-b9d9-b2fc2a724b4b": {
         "name": "KeyLoader",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt",
         "code": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/code.php",
         "power": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/code.power",
         "settings": "src\/6da44dff-a221-4f22-b9d9-b2fc2a724b4b\/settings.json",
@@ -79,7 +79,7 @@
     "a25c82c8-14c2-40df-adae-f832709ab49b": {
         "name": "Aes",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt",
         "code": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/code.php",
         "power": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/code.power",
         "settings": "src\/a25c82c8-14c2-40df-adae-f832709ab49b\/settings.json",
@@ -90,7 +90,7 @@
     "a3414824-e99d-4878-b3d1-b5deef0cae17": {
         "name": "Load",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Server",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Server",
         "code": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/code.php",
         "power": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/code.power",
         "settings": "src\/a3414824-e99d-4878-b3d1-b5deef0cae17\/settings.json",
@@ -101,7 +101,7 @@
     "c46a42b4-b0d3-48e7-a6fa-af0399e1e66c": {
         "name": "Random",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt",
         "code": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/code.php",
         "power": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/code.power",
         "settings": "src\/c46a42b4-b0d3-48e7-a6fa-af0399e1e66c\/settings.json",
@@ -112,7 +112,7 @@
     "d357e796-9f22-4615-9ebc-970b42cbd280": {
         "name": "Crypt",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder",
         "code": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/code.php",
         "power": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/code.power",
         "settings": "src\/d357e796-9f22-4615-9ebc-970b42cbd280\/settings.json",
@@ -123,7 +123,7 @@
     "e98b4edc-25b9-49d7-98a0-e42ad3b75efe": {
         "name": "FOF",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt",
         "code": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/code.php",
         "power": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/code.power",
         "settings": "src\/e98b4edc-25b9-49d7-98a0-e42ad3b75efe\/settings.json",
@@ -134,7 +134,7 @@
     "f37ee8b7-2909-4319-bdf8-769bd7635490": {
         "name": "Load",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Server\\Model",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Server\\Model",
         "code": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/code.php",
         "power": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/code.power",
         "settings": "src\/f37ee8b7-2909-4319-bdf8-769bd7635490\/settings.json",
@@ -145,7 +145,7 @@
     "fea2b107-3ee4-4ebf-84be-d3f2829c8614": {
         "name": "Password",
         "type": "class",
-        "namespace": "VDM\\Joomla\\Componentbuilder\\Crypt",
+        "namespace": "VastDevelopmentMethod\\Joomla\\Componentbuilder\\Crypt",
         "code": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/code.php",
         "power": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/code.power",
         "settings": "src\/fea2b107-3ee4-4ebf-84be-d3f2829c8614\/settings.json",

@@ -9,10 +9,10 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder\Crypt;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder\Crypt;
 
 
-use VDM\Joomla\FOF\Encrypt\AES;
+use VastDevelopmentMethod\Joomla\FOF\Encrypt\AES;
 use VDM\Joomla\Componentbuilder\Interfaces\Cryptinterface;
 
 

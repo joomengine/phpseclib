@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class Legacy (Details)
-> namespace: **VDM\Joomla\Componentbuilder\Crypt\Aes**
+> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes**
 ```uml
 @startuml
 class Legacy  #Gold {

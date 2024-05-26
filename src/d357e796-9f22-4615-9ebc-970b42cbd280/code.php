@@ -9,15 +9,15 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder;
 
 
-use VDM\Joomla\Componentbuilder\Crypt\FOF;
-use VDM\Joomla\Componentbuilder\Crypt\Aes;
-use VDM\Joomla\Componentbuilder\Crypt\Aes\Legacy;
-use VDM\Joomla\Componentbuilder\Crypt\Password;
+use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\FOF;
+use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes;
+use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes\Legacy;
+use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Password;
 use VDM\Joomla\Componentbuilder\Interfaces\Cryptinterface;
-use VDM\Joomla\Utilities\StringHelper;
+use VastDevelopmentMethod\Joomla\Utilities\StringHelper;
 
 
 /**

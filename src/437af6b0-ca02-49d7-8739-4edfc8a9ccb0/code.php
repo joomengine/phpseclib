@@ -9,7 +9,7 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder\Crypt\Aes;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes;
 
 
 use phpseclib3\Crypt\AES as BASEAES;

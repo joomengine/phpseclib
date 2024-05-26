@@ -9,13 +9,13 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VDM\Joomla\Componentbuilder\Crypt;
+namespace VastDevelopmentMethod\Joomla\Componentbuilder\Crypt;
 
 
 
 use phpseclib3\Crypt\AES as BASEAES;
 use phpseclib3\Exception\BadDecryptionException;
-use VDM\Joomla\Componentbuilder\Crypt\Random;
+use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Random;
 use VDM\Joomla\Componentbuilder\Interfaces\Cryptinterface;
 
 
