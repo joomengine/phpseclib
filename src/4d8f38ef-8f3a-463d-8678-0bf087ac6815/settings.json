@@ -1,7 +1,7 @@
 {
     "add_head": "1",
     "add_licensing_template": "2",
-    "extends": "0",
+    "extends": "",
     "guid": "4d8f38ef-8f3a-463d-8678-0bf087ac6815",
     "implements": [
         "-1"
@@ -41,6 +41,7 @@
             "as": "default"
         }
     },
+    "extendsinterfaces": null,
     "namespace": "[[[NamespacePrefix]]]\\Joomla\\Componentbuilder.Service.Crypt",
     "description": "Phpseclib Crypt Service Provider\r\n\r\n@since 3.2.0",
     "implements_custom": "ServiceProviderInterface",

@@ -9,15 +9,15 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Service;
+namespace VDM\Joomla\Componentbuilder\Service;
 
 
 use Joomla\DI\Container;
 use Joomla\DI\ServiceProviderInterface;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server as Client;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Load;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Ftp;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Sftp;
+use VDM\Joomla\Componentbuilder\Server as Client;
+use VDM\Joomla\Componentbuilder\Server\Load;
+use VDM\Joomla\Componentbuilder\Server\Ftp;
+use VDM\Joomla\Componentbuilder\Server\Sftp;
 
 
 /**

@@ -1,7 +1,7 @@
 {
     "add_head": "1",
     "add_licensing_template": "2",
-    "extends": "0",
+    "extends": "",
     "guid": "42ceff0b-226d-42ff-9ffa-3d5935890337",
     "implements": [
         "-1"
@@ -29,6 +29,7 @@
             "as": "default"
         }
     },
+    "extendsinterfaces": null,
     "namespace": "[[[NamespacePrefix]]]\\Joomla\\Componentbuilder.Service.Server",
     "description": "Server Service Provider\r\n\r\n@since 3.2.0",
     "implements_custom": "ServiceProviderInterface",

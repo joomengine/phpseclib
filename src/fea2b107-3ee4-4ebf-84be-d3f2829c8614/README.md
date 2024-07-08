@@ -7,7 +7,8 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class Password (Details)
-> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Crypt**
+> namespace: **VDM\Joomla\Componentbuilder\Crypt**
+> extends: ****
 ```uml
 @startuml
 class Password  #Gold {

@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class Load (Details)
-> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Server\Model**
+> namespace: **VDM\Joomla\Componentbuilder\Server\Model**
 > extends: **Model**
 ```uml
 @startuml

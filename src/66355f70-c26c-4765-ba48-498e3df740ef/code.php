@@ -9,15 +9,15 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder;
+namespace VDM\Joomla\Componentbuilder;
 
 
 use Joomla\CMS\Factory as JoomlaFactory;
 use Joomla\CMS\User\User;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Load;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Ftp;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Sftp;
-use VastDevelopmentMethod\Joomla\Utilities\StringHelper;
+use VDM\Joomla\Componentbuilder\Server\Load;
+use VDM\Joomla\Componentbuilder\Server\Ftp;
+use VDM\Joomla\Componentbuilder\Server\Sftp;
+use VDM\Joomla\Utilities\StringHelper;
 
 
 /**

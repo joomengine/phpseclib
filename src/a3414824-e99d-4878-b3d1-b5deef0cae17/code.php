@@ -9,12 +9,12 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Server;
+namespace VDM\Joomla\Componentbuilder\Server;
 
 
 use VDM\Joomla\Componentbuilder\Compiler\Factory;
-use VastDevelopmentMethod\Joomla\Database\Load as Database;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Server\Model\Load as Model;
+use VDM\Joomla\Database\Load as Database;
+use VDM\Joomla\Componentbuilder\Server\Model\Load as Model;
 
 
 /**

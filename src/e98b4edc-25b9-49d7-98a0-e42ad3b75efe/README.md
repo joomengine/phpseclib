@@ -7,7 +7,8 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class FOF (Details)
-> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Crypt**
+> namespace: **VDM\Joomla\Componentbuilder\Crypt**
+> extends: ****
 ```uml
 @startuml
 class FOF  #Gold {

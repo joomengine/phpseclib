@@ -9,19 +9,19 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Service;
+namespace VDM\Joomla\Componentbuilder\Service;
 
 
 use Joomla\DI\Container;
 use Joomla\DI\ServiceProviderInterface;
 use phpseclib3\Crypt\AES as BASEAES;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt as Crypto;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\KeyLoader;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Random;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Password;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\FOF;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\Aes\Legacy;
+use VDM\Joomla\Componentbuilder\Crypt as Crypto;
+use VDM\Joomla\Componentbuilder\Crypt\KeyLoader;
+use VDM\Joomla\Componentbuilder\Crypt\Random;
+use VDM\Joomla\Componentbuilder\Crypt\Password;
+use VDM\Joomla\Componentbuilder\Crypt\FOF;
+use VDM\Joomla\Componentbuilder\Crypt\Aes;
+use VDM\Joomla\Componentbuilder\Crypt\Aes\Legacy;
 
 
 /**

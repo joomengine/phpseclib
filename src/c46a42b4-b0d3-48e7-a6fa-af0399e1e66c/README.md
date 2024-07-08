@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # class Random (Details)
-> namespace: **VastDevelopmentMethod\Joomla\Componentbuilder\Crypt**
+> namespace: **VDM\Joomla\Componentbuilder\Crypt**
 > extends: **CryptRandom**
 ```uml
 @startuml

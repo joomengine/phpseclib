@@ -9,17 +9,17 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Server;
+namespace VDM\Joomla\Componentbuilder\Server;
 
 
 use Joomla\CMS\Factory;
 use Joomla\CMS\Language\Text;
 use Joomla\CMS\Application\CMSApplication;
 use phpseclib3\Net\SFTP as SftpClient;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt\KeyLoader;
-use VastDevelopmentMethod\Joomla\Utilities\StringHelper;
-use VastDevelopmentMethod\Joomla\Utilities\FileHelper;
-use VastDevelopmentMethod\Joomla\Utilities\ObjectHelper;
+use VDM\Joomla\Componentbuilder\Crypt\KeyLoader;
+use VDM\Joomla\Utilities\StringHelper;
+use VDM\Joomla\Utilities\FileHelper;
+use VDM\Joomla\Utilities\ObjectHelper;
 use VDM\Joomla\Componentbuilder\Interfaces\Serverinterface;
 
 

@@ -9,7 +9,7 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Crypt;
+namespace VDM\Joomla\Componentbuilder\Crypt;
 
 
 use phpseclib3\Crypt\PublicKeyLoader;

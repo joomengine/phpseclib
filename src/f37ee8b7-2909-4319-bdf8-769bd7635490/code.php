@@ -9,17 +9,17 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace VastDevelopmentMethod\Joomla\Componentbuilder\Server\Model;
+namespace VDM\Joomla\Componentbuilder\Server\Model;
 
 
 use Joomla\Registry\Registry;
 use VDM\Joomla\Componentbuilder\Compiler\Factory;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Crypt;
-use VastDevelopmentMethod\Joomla\Componentbuilder\Table;
-use VastDevelopmentMethod\Joomla\Utilities\StringHelper;
-use VastDevelopmentMethod\Joomla\Utilities\JsonHelper;
-use VastDevelopmentMethod\Joomla\Interfaces\ModelInterface;
-use VastDevelopmentMethod\Joomla\Abstraction\Model;
+use VDM\Joomla\Componentbuilder\Crypt;
+use VDM\Joomla\Componentbuilder\Table;
+use VDM\Joomla\Utilities\StringHelper;
+use VDM\Joomla\Utilities\JsonHelper;
+use VDM\Joomla\Interfaces\ModelInterface;
+use VDM\Joomla\Abstraction\Model;
 
 
 /**
