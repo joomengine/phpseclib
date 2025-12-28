@@ -45,7 +45,7 @@
 		$this->load = $load;
 		$this->ftp = $ftp;
 		$this->sftp = $sftp;
-		$this->user = $user ?: JoomlaFactory::getUser();
+		$this->user = $user ?: Factory::getApplication()->getIdentity();
 	}
 
 	/**
