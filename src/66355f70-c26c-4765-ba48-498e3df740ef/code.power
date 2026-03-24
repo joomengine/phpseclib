@@ -1,4 +1,10 @@
 	/**
+	 * To load the user identity
+	 * @since  5.1.4
+	 */
+	use IdentityTrait;
+
+	/**
 	 * The Loader
 	 *
 	 * @var    Load
@@ -45,8 +51,9 @@
 		$this->load = $load;
 		$this->ftp = $ftp;
 		$this->sftp = $sftp;
-		$this->user = $user ?: Factory::getApplication()->getIdentity();
+		$this->user = $user ?: $this->getIdentity();
 	}
+
 
 	/**
 	 * Move File to Server
